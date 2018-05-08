@@ -12,6 +12,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net.Security;
 using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,11 +24,18 @@ namespace TCPClient
         static void Main(string[] args)
         {
 
-            TcpClient clientSocket = new TcpClient("localhost", 6789);
+            TcpClient clientSocket = new TcpClient("192.168.6.193", 6789);
 
-            Stream ns = clientSocket.GetStream();
-            StreamReader sr = new StreamReader(ns);
-            StreamWriter sw = new StreamWriter(ns);
+            Stream unsecureStream = clientSocket.GetStream();
+            bool leaveInnerStreamOpen = false;
+
+            SslStream sslStream = new SslStream(unsecureStream, leaveInnerStreamOpen);
+            sslStream.AuthenticateAsClient("FakeServerName");
+
+
+            //Stream ns = clientSocket.GetStream();
+            StreamReader sr = new StreamReader(sslStream);
+            StreamWriter sw = new StreamWriter(sslStream);
             sw.AutoFlush = true; // enable automatic flushing
 
             for (int i = 0; i < 5; i++)
@@ -36,7 +44,7 @@ namespace TCPClient
                 string serverAnswer = sr.ReadLine();
                 Console.WriteLine("Server: " + serverAnswer);
             }
-            ns.Close();
+            sslStream.Close();
             clientSocket.Close();
 
         }

@@ -6,3 +6,10 @@ C:\D Drive\Undervisning\CodsC#\Solutions\TCPClient\TCPClient\obj\Debug\TCPClient
 C:\D Drive\Undervisning\CODS#2\TCPEchoServerClientX\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
 C:\D Drive\Undervisning\CODS#2\TCPEchoServerClientX\TCPClient\TCPClient\obj\Debug\TCPClient.exe
 C:\D Drive\Undervisning\CODS#2\TCPEchoServerClientX\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Peter\Desktop\3.Semester\Teknik  Cods\TCPEchoServerClientX\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Peter\Desktop\3.Semester\Teknik  Cods\TCPEchoServerClientX\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Peter\Desktop\3.Semester\Teknik  Cods\TCPEchoServerClientX\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Peter\Desktop\3.Semester\Teknik  Cods\TCPEchoServerClientX\TCPClient\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Desktop\3.Semester\Teknik  Cods\TCPEchoServerClientX\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\3.Semester\Teknik  Cods\TCPEchoServerClientX\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Peter\Desktop\3.Semester\Teknik  Cods\TCPEchoServerClientX\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
