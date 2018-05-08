@@ -1,0 +1,8 @@
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\D Drive\Undervisning\CODS#2\TCPEchoServerClientX\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\D Drive\Undervisning\CODS#2\TCPEchoServerClientX\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\D Drive\Undervisning\CODS#2\TCPEchoServerClientX\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
