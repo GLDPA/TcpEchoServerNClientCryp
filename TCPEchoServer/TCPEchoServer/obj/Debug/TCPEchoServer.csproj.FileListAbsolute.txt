@@ -1,0 +1,16 @@
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoServer\TCPEchoServer\bin\Debug\TCPEchoServer.exe.config
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoServer\TCPEchoServer\obj\Debug\TCPEchoServer.csprojResolveAssemblyReference.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoServer\TCPEchoServer\bin\Debug\TCPEchoServer.exe
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoServer\TCPEchoServer\bin\Debug\TCPEchoServer.pdb
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoServer\TCPEchoServer\obj\Debug\TCPEchoServer.exe
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoServer\TCPEchoServer\obj\Debug\TCPEchoServer.pdb
+C:\D Drive\Undervisning\CODS#2\TCPEchoServerClientX\TCPEchoServer\TCPEchoServer\bin\Debug\TCPEchoServer.exe.config
+C:\D Drive\Undervisning\CODS#2\TCPEchoServerClientX\TCPEchoServer\TCPEchoServer\obj\Debug\TCPEchoServer.exe
+C:\D Drive\Undervisning\CODS#2\TCPEchoServerClientX\TCPEchoServer\TCPEchoServer\obj\Debug\TCPEchoServer.pdb
+C:\Users\sels1\source\repos\TCP\TCPEchoServerClientX\TCPEchoServer\TCPEchoServer\bin\Debug\TCPEchoServer.exe.config
+C:\Users\sels1\source\repos\TCP\TCPEchoServerClientX\TCPEchoServer\TCPEchoServer\bin\Debug\TCPEchoServer.exe
+C:\Users\sels1\source\repos\TCP\TCPEchoServerClientX\TCPEchoServer\TCPEchoServer\bin\Debug\TCPEchoServer.pdb
+C:\Users\sels1\source\repos\TCP\TCPEchoServerClientX\TCPEchoServer\TCPEchoServer\obj\Debug\TCPEchoServer.csprojResolveAssemblyReference.cache
+C:\Users\sels1\source\repos\TCP\TCPEchoServerClientX\TCPEchoServer\TCPEchoServer\obj\Debug\TCPEchoServer.csproj.CoreCompileInputs.cache
+C:\Users\sels1\source\repos\TCP\TCPEchoServerClientX\TCPEchoServer\TCPEchoServer\obj\Debug\TCPEchoServer.exe
+C:\Users\sels1\source\repos\TCP\TCPEchoServerClientX\TCPEchoServer\TCPEchoServer\obj\Debug\TCPEchoServer.pdb
